@@ -2,7 +2,7 @@
 
 ### 演示站： rowling960.com
 
-### 技术栈
+### 沧海拾珠（技术栈）
 
 - flask
 - redis
