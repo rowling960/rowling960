@@ -1,16 +1,14 @@
 ### 人生苦短，道阻且长。但行好事，莫问前程。
 
-<!--
-**rowling960/rowling960** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 演示站： rowling960.com
 
-Here are some ideas to get you started:
+### 技术栈
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- flask
+- redis
+- mysql
+- fastdfs
+- nginx
+- gunicorn
+
+
